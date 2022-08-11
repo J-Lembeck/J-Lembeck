@@ -20,7 +20,5 @@ I'm a software engineering student starting its career as a software developer ð
   ##
   
   <div> 
-  <a href = "mailto:joaolembeck025@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
   <a href="[https://www.linkedin.com/in/evelyn-bittelbrunn-1748a4178](https://www.linkedin.com/in/jo%C3%A3o-vitor-lembeck-483baa201/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
