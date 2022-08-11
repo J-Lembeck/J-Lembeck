@@ -2,7 +2,7 @@ Hello everyone! 😎
 
 I'm a software engineering student starting its career as a software developer 🧩📱
  
- - Knowlodge: HTML, CSS, Javascript, PHP and ADVPL 🤓
+ - HTML, CSS, Javascript, PHP and ADVPL 🤓
  - Studying NodeJS and ReactJS 📚🔬
 
 <br>
