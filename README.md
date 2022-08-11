@@ -11,7 +11,6 @@ I'm a software engineering student starting its career as a software developer ð
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=J-Lembeck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Lembeck&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- <br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
