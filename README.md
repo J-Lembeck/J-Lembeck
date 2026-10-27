@@ -1,11 +1,3 @@
-Hello everyone! 😎
-
-I'm a software engineering student starting its career as a software developer 🧩📱
- 
- - HTML, CSS, Javascript, PHP and ADVPL 🤓
- - Studying NodeJS and ReactJS 📚🔬
-
-<br>
 <div>
   <a href="https://github.com/J-Lembeck">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=J-Lembeck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
